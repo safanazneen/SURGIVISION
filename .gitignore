@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Unity generated files
+/unity_project/Library/
+/unity_project/Temp/
+/unity_project/Obj/
+/unity_project/Build/
+/unity_project/Builds/
+/unity_project/Logs/
+/unity_project/UserSettings/
+*.csproj
+*.unityproj
+*.sln
+
+# Local runtime logs
+python_pipeline/session_telemetry_*.csv
